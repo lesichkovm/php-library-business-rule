@@ -36,3 +36,6 @@ if (AllowAccessRule::init(['user'=>$user)->fails()) {
     die('You are not allowed access to this part of the website');
 }
 ```
+
+## Similar Libraries ##
+https://github.com/subzeta/ruling
